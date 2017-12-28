@@ -1,0 +1,9 @@
+package idr-utils
+
+version = "0.0.1"
+
+opts = "-p contrib"
+sourcedir = src
+
+modules = IdrUtils
+tests = IdrUtils.test
